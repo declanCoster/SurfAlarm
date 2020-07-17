@@ -8,3 +8,5 @@ This code needs a storm glass api account and a telegram bot must already be cre
 The test file is used to run as a way to check connection to the bot and the group chat. 
 
 The bot must be added to the chat and the chat id is needed for the code.
+
+The ultimate goal is that this surf alarm will be run on a pi for continuous use in a surfing group chat.
