@@ -78,7 +78,7 @@ message = message + "\n\nhttps://www.surf-forecast.com/breaks/Wooden-Jetties/for
 if wind_direction:
     message = "nice wind direction\n\n" + message
 elif massive:
-    message = "it is faaacking massive\n\n" + message
+    message = "it is massive\n\n" + message
 
 data = {
         'bot_id' : 'id',
